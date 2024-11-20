@@ -1,3 +1,4 @@
+import { alertaSuccess, alertaError, alertaWarning } from "../alertas"
 
 const Producto  = () => {
     return (
